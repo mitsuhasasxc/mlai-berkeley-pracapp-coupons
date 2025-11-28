@@ -13,3 +13,13 @@ Possibility that someone will accept a coupon offered
 We will create a design that will show:
 1. How many people have accepted coupons
 2. How many coupons does a person accept
+
+
+Final Objective:
+Provide a brief report that highlights: The differences between customers who did and did not accept the coupons
+
+We will create a design that will show:
+1. How many people have accepted coupons
+2. How many coupons does a person accept
+3. What type of coupon is more accepted
+
