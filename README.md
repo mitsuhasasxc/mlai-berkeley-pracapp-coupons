@@ -10,5 +10,6 @@ This file has the following details:
 We have to analyze the details and figure out what is the 
 Possibility that someone will accept a coupon offered
 
-We will create a design that will show
-1. 
+We will create a design that will show:
+1. How many people have accepted coupons
+2. How many coupons does a person accept
